@@ -1,0 +1,10 @@
+{
+  "name": "code",
+  "description": "Symbol-level navigation of a checkout with tree-sitter (tree-sitting), a blast-radius report before a change (assessing-impact), and finding tests that copy a domain by hand (declaring-invariants).",
+  "version": "2026.11.10",
+  "author": {
+    "name": "Oskar Austegard"
+  },
+  "repository": "https://github.com/oaustegard/claude-skills",
+  "license": "MIT"
+}

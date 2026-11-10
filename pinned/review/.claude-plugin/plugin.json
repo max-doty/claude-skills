@@ -1,0 +1,10 @@
+{
+  "name": "review",
+  "description": "Adversarial review of a deliverable before it ships (challenging), and checking that a README or doc's claims about the code are still true (verifying-claims).",
+  "version": "2026.11.10",
+  "author": {
+    "name": "Oskar Austegard"
+  },
+  "repository": "https://github.com/oaustegard/claude-skills",
+  "license": "MIT"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "checks",
+  "description": "Building verification gates that can be shown to go red (gating), and semi-formal reasoning about patches and faults (reasoning-semiformally).",
+  "version": "2026.11.10",
+  "author": {
+    "name": "Oskar Austegard"
+  },
+  "repository": "https://github.com/oaustegard/claude-skills",
+  "license": "MIT"
+}

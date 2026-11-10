@@ -1,0 +1,10 @@
+{
+  "name": "declauding",
+  "description": "Rewrites prose that reads as model-written into plain technical prose, and checks the rewrite kept the draft's claims. The skill only: upstream's Stop hook (the forced fresh-eyes read) is left out.",
+  "version": "0.13.2",
+  "author": {
+    "name": "Oskar Austegard"
+  },
+  "repository": "https://github.com/oaustegard/claude-skills",
+  "license": "MIT"
+}
